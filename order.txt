@@ -1,0 +1,2 @@
+In order for any change made to this file to be taken into account, you must perform a full
+restart of the main SonarQube service.
